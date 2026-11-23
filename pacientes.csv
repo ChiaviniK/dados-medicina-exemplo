@@ -1,0 +1,7 @@
+id_paciente,nome,data_nascimento,tipo_sanguineo,convenio,ativo
+201,Mariana Costa,1992-05-14,O+,Unimed,True
+202,Carlos Eduardo Lima,1968-11-02,A+,Bradesco Saúde,True
+203,Beatriz Santos,1999-03-22,B-,Particular,True
+204,Roberto Almeida,1961-08-30,AB+,SulAmérica,False
+205,Fernanda Oliveira,1985-01-19,O-,Unimed,True
+206,Lucas Ferreira,2007-07-10,A-,Particular,True

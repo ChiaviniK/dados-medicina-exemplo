@@ -1,0 +1,116 @@
+[
+  {
+    "id_consulta": "ATD-101",
+    "triagem": {
+      "pressao": "120/80",
+      "temperatura": 36.6,
+      "peso_kg": 64.5
+    },
+    "exames_solicitados": [
+      {
+        "codigo": "EX-01",
+        "nome_exame": "Eletrocardiograma",
+        "valor_exame": 120.0,
+        "resultado_pronto": true
+      },
+      {
+        "codigo": "EX-02",
+        "nome_exame": "Hemograma Completo",
+        "valor_exame": 45.0,
+        "resultado_pronto": true
+      }
+    ]
+  },
+  {
+    "id_consulta": "ATD-102",
+    "triagem": {
+      "pressao": "135/85",
+      "temperatura": 36.8,
+      "peso_kg": 86.0
+    },
+    "exames_solicitados": [
+      {
+        "codigo": "EX-03",
+        "nome_exame": "Raio-X de Joelho",
+        "valor_exame": 95.0,
+        "resultado_pronto": true
+      }
+    ]
+  },
+  {
+    "id_consulta": "ATD-103",
+    "triagem": {
+      "pressao": "118/78",
+      "temperatura": 36.5,
+      "peso_kg": 64.2
+    },
+    "exames_solicitados": [
+      {
+        "codigo": "EX-04",
+        "nome_exame": "Ecocardiograma",
+        "valor_exame": 220.0,
+        "resultado_pronto": false
+      }
+    ]
+  },
+  {
+    "id_consulta": "ATD-104",
+    "triagem": {
+      "pressao": "110/70",
+      "temperatura": 36.4,
+      "peso_kg": 57.0
+    },
+    "exames_solicitados": [
+      {
+        "codigo": "PR-01",
+        "nome_exame": "Dermatoscopia Digital",
+        "valor_exame": 150.0,
+        "resultado_pronto": true
+      },
+      {
+        "codigo": "PR-02",
+        "nome_exame": "Biópsia de Pele",
+        "valor_exame": 280.0,
+        "resultado_pronto": false
+      }
+    ]
+  },
+  {
+    "id_consulta": "ATD-105",
+    "triagem": {
+      "pressao": "122/80",
+      "temperatura": 36.7,
+      "peso_kg": 71.3
+    },
+    "exames_solicitados": [
+      {
+        "codigo": "EX-05",
+        "nome_exame": "TSH e T4 Livre",
+        "valor_exame": 85.0,
+        "resultado_pronto": true
+      },
+      {
+        "codigo": "EX-06",
+        "nome_exame": "Ultrassom de Tireoide",
+        "valor_exame": 190.0,
+        "resultado_pronto": true
+      }
+    ]
+  },
+  {
+    "id_consulta": "ATD-106",
+    "triagem": {
+      "pressao": "140/90",
+      "temperatura": 37.9,
+      "peso_kg": 79.0
+    },
+    "exames_solicitados": [
+      {
+        "codigo": "EX-07",
+        "nome_exame": "Tomografia de Tornozelo",
+        "valor_exame": 310.0,
+        "resultado_pronto": true
+      }
+    ]
+  }
+]
